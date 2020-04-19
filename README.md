@@ -35,7 +35,7 @@ Bulduğum ikinci dereceden denklem (x= konum, t=zaman, *x= at^2+b*t + c*) şu ş
 
 Yukarıdaki örneği kullanarak **kendi ölçümlerinizle** bir tablo oluşturun (hiç değilse birkaç frame benim ölçümlerinden farklı olsun.) Kullandığınız Google Sheet için [buraya](https://docs.google.com/spreadsheets/d/1C1lXZIT6NQbdDJurgb_y78jPfNQbdqVCpP6HMN22NuI/edit?usp=sharing) link verin (Google Sheet herkese açık erişimli olsun.) 
 
-a) Denkleminizi **buraya yazınız: N  **. Sizce a, b, ve c'nin fiziksel anlamları ne olabilir? Sizce niçin a'nın değeri negatif? **2. dereceden denklemlerin grafikleri parabol oluşturur. Parabollarda a katsayısı parabol kollarının nasıl olacağını  belirler. Eğer negatifse kollar aşağıya doğrudur. Bizim yaptığımız deneyde de tepe noktası üst kısımda ve kollar aşağıya doğru olduğu için negatiftir**
+a) Denkleminizi **buraya yazınız: **3,57E-03+1,82x+-1,24x^2**. Sizce a, b, ve c'nin fiziksel anlamları ne olabilir? Sizce niçin a'nın değeri negatif? **2. dereceden denklemlerin grafikleri parabol oluşturur. Parabollarda a katsayısı parabol kollarının nasıl olacağını  belirler. Eğer negatifse kollar aşağıya doğrudur. Bizim yaptığımız deneyde de tepe noktası üst kısımda ve kollar aşağıya doğru olduğu için negatiftir**
 b) Hava sürtünmesini ihmal edersek, bu harakette ivme sabit midir?**hayır** 
 c) Video'daki cismin atılış hızı farklı olsaydı (diğer herşey aynı, kütle, yüzey, vb. Hava sürtünmesini ihmal edin), sizce formülde hangi terimler değişecekti? (a, b veya c) **Tepe kısmı,x eksenini kestiği yerler değişeceği için a ve b terimleri değişir.
 
