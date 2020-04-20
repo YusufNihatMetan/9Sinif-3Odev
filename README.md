@@ -60,9 +60,8 @@ Yardım:**Uygulanan kuvveti bilseydik bulabilirdik**
 * Düzgün ivmelenen bir cisim için alınan yol formülü x = (ilk hız+ son hız)/2*t, burdan cismin ilk hızını bulunuz. 
 **Cismin aldığı yol 0.675M dir.Son hızı sıfırladnığından 0.675x2= 1.350m/s olur**
 * Daha sonra iş-kinetik enerji teorimini kullanarak sürtünme kuvvetini bulun. Sürtünme kuvvetinden, kinetik sürtünme katsayısını bulunuz.
-**Kinetik enerji m/2*v²'den 0.5*1.350²=0,91125 buluruz. İş=KuvvetxYol olduğundan 0,91125=x*0,675, x=kuvvet buradan 1,35‬Newton çıkar.**
-**Hocam burayı görüyorsanız nasıl bulacağımı bilemedim issues kısmına anlatırsanız çok mutlu olurum.**
-
-**F=k*N    1.35=k*10  K=0,135** 
+**Kinetik enerji m/2*v²'den 0.5*1.350²=0,91125 buluruz. İş=KuvvetxYol olduğundan 0,91125=x*0,675, x=kuvvet buradan 1,35‬Newton çıkar.
+**F=k x N    1.35=k x 10        K=0,135** 
+ **Hocam eğer yanlışsa düzeltin biraz salladım çünkü**
 
 3) Bu video'dan statik sürtünme katsayısını bulabilir miydim?  **hayır**
