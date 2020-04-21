@@ -53,15 +53,34 @@ kullandım. Konum-zaman grafiği 2.dereceden bir denklem iken, hız-zaman grafi�
 3) İvme'yi ne buldunuz? Bu ivme değerini kullanarak 1kg'lık cisim ile yüzey arasındaki kinetik sürtünme katsayısını bulunuz. 
 
 # Bölüm 3 (Hala Beni Öldürmeyi Düşünmüyorsan)
-1) Bu deneyde ölçüm hatalarım var. Zamandaki ölçüm hatam sizce kaç ms (mili saniye) nedir? Konumdaki ölçüm hatam sizce kaç cm'dir? 
+1) Bu deneyde ölçüm hatalarım var. Zamandaki ölçüm hatam sizce kaç ms (mili saniye) nedir?
+
+Konumdaki ölçüm hatam sizce kaç cm'dir? **0.25-0,5**
 
 2) Acaba hiç grafik çizmeden sürtünme katsayısını bulabilir miydim?  (Cevap: Evet). 
 Yardım:**Uygulanan kuvveti bilseydik bulabilirdik**
-* Düzgün ivmelenen bir cisim için alınan yol formülü x = (ilk hız+ son hız)/2*t, burdan cismin ilk hızını bulunuz. 
-**Cismin aldığı yol 0.675M dir.Son hızı sıfırladnığından 0.675x2= 1.350m/s olur**
+* Düzgün ivmelenen bir cisim için alınan yol formülü x = (ilk hız+ son hız)/2*t, burdan cismin ilk hızını bulunuz.**1,760869565217391**
+
+Cismin aldığı yol 0.675M dir.Son hızı sıfırladnığından        
+
+z*[(53-7)/60]/2=0,675 
+=0,675= z x 23/60
+=**z = 0,675x60/23= 1,760869565217391**
+
+iş=kuvvet*yol
+1/2mv²=
+(1,760869565217391)² /2=0,675*F
+= 1,550330812854442‬=0,675*F
+**=F=2,296786389413988‬**
+
+ilk hız=z ,son hız= 0
+
 * Daha sonra iş-kinetik enerji teorimini kullanarak sürtünme kuvvetini bulun. Sürtünme kuvvetinden, kinetik sürtünme katsayısını bulunuz.
-**Kinetik enerji m/2*v²'den 0.5*1.350²=0,91125 buluruz. İş=KuvvetxYol olduğundan 0,91125=x*0,675, x=kuvvet buradan 1,35‬Newton çıkar.
-**F=k x N    1.35=k x 10        K=0,135** 
- **Hocam eğer yanlışsa düzeltin biraz salladım çünkü**
+**Kinetik enerji m/2*v²'den (1,760869565217391)² /2=0,675*F den  =F=2,296786389413988‬ buluruz. 
+**F=k x N   2,296786389413988‬=k x 10        K=0,230 olur yuvarlarsak** 
+
+Sonuç: ilk hız = 1,760869565217391
+       Sürtünme katsayısı= 0,230 
+
 
 3) Bu video'dan statik sürtünme katsayısını bulabilir miydim?  **hayır**
