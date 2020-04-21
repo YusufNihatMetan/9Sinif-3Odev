@@ -77,10 +77,10 @@ ilk hız=z ,son hız= 0
 
 * Daha sonra iş-kinetik enerji teorimini kullanarak sürtünme kuvvetini bulun. Sürtünme kuvvetinden, kinetik sürtünme katsayısını bulunuz.
 **Kinetik enerji m/2*v²'den (1,760869565217391)² /2=0,675*F den  =F=2,296786389413988‬ buluruz. 
-**F=k x N   2,296786389413988‬=k x 10        K=0,230 olur yuvarlarsak** 
+**F=k x N   2,296786389413988‬=k x 10        K=0,229 olur yuvarlarsak** 
 
 Sonuç: ilk hız = 1,760869565217391
-       Sürtünme katsayısı= 0,230 
+       Sürtünme katsayısı= 0,229
 
 
 3) Bu video'dan statik sürtünme katsayısını bulabilir miydim?  **hayır**
